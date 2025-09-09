@@ -1,0 +1,37 @@
+[
+  {
+    "data": "2024-01-15",
+    "descrizione": "Evento di sistema inizializzato",
+    "tipo": "sistema",
+    "livello": "info",
+    "id": 1
+  },
+  {
+    "data": "2024-01-10",
+    "descrizione": "Errore di connessione al database", 
+    "tipo": "errore",
+    "livello": "critico",
+    "id": 2
+  },
+  {
+    "data": "2024-01-20",
+    "descrizione": "Backup completato con successo",
+    "tipo": "backup",
+    "livello": "info", 
+    "id": 3
+  },
+  {
+    "data": "2024-01-12",
+    "descrizione": "Aggiornamento applicazione installato",
+    "tipo": "aggiornamento",
+    "livello": "info",
+    "id": 4
+  },
+  {
+    "data": "2024-01-18",
+    "descrizione": "Alert di sicurezza rilevato",
+    "tipo": "sicurezza",
+    "livello": "warning",
+    "id": 5
+  }
+]
